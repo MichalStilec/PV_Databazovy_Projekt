@@ -1,0 +1,15 @@
+[
+    {
+        "Nazev" : "stul",
+        "Cena" : 1700,
+        "Datum_vyroby" : "2022-04-15",
+        "Id_materialu" : 1
+    },
+    
+    {
+        "Nazev" : "lavicka",
+        "Cena" : 600,
+        "Datum_vyroby" : "2022-08-29",
+        "Id_materialu" : 1
+    }
+]
